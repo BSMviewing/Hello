@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8de28244.js",
+    "static/media/Background.png": "/static/media/Background.9aff733c90b7508fe342.png",
+    "static/media/earth.png": "/static/media/earth.27e31a8c4de532fe1c79.png",
+    "static/media/tree.png": "/static/media/tree.9fe2a6b6565c516dcae2.png",
+    "index.html": "/index.html",
+    "main.8de28244.js.map": "/static/js/main.8de28244.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8de28244.js"
+  ]
+}
